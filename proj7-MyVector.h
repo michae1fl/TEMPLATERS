@@ -2,7 +2,10 @@
 #define PROJ7_PROJ7_MYVECTOR_H
 
 #include "proj7-ContainerIfc.h"
+#include <iostream>
 #include <stdexcept>
+
+using namespace std;
 
 const int DEFAULT = 10;
 
